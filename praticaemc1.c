@@ -21,14 +21,5 @@ int main(){
     }else if(a>p && a!=0 && p!=0 && p>0 && a>0){
     printf("Joana eh a mais velha");
     }
-
-
-
-
-
-
-
-
-
     return 0;
 }
