@@ -24,12 +24,5 @@ int main(){
         printf("Este numero eh impar e menor que 50");
         }
         }
-
-
-
-
-
-
-
     return 0; 
 }
