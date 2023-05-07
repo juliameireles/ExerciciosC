@@ -27,7 +27,7 @@ int main(){
     }
 
       if(bandeira==2){
-        if(kmpercorrido*2.50>=3.50){
+        if(kmpercorrido*2.30>=3.50){
         valorcorrida= kmpercorrido * 2.30;
         printf("O valor da corrida eh: %.2f",valorcorrida);
     }else{
